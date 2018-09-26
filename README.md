@@ -23,5 +23,5 @@ docker run --rm \
   -e KUBECTL_TOKEN=aaaaaaaa \
   -e KUBECTL_NAMESPACE=develop \
   -e KUBECTL_RESOURCE_FILE="mypod.yaml" \
-  chrisduong/drone-kubernetes
+  chrisduong/drone-kubectl
 ```
